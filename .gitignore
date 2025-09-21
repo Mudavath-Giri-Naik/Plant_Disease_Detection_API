@@ -1,0 +1,28 @@
+# Model files
+models/plant_disease_recog_model_pwp.keras
+
+# Uploaded images
+uploadimages/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
